@@ -10,6 +10,7 @@ Summary(Optional) : Liver cirrhosis is a widespread problem due to high intake o
 scarring of the liver . The dataset is the information collected from the Mayo Clinic
 trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984
 This dataset contains a total of 424 PBC patient's records.
+
 ##ATTRIBUTE INFORMATION##
 1) ID: unique identifier
 2) N_Days: number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986
@@ -45,6 +46,7 @@ This dataset contains a total of 424 PBC patient's records.
 25) Prothrombin:measures how long it takes for a clot to form in a blood sample. 
     prothrombin time in seconds [s]
 27) Stage: histologic stage of fibrosis sca (1, 2, 3, or 4)
+
 MY tasks were to perform EDA and Regression/Classification
 I first tried comprehending the dataset by understanding the meaning of the clinical features and how they are related to cirrhosis. Handled missing values using median for 
 numerical data and most frequent feature for categorical data , found outliers in the dataset , understood the relationship between different attributes and how they affect the 
