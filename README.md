@@ -9,3 +9,4 @@ AI Club IGDTUW </h1>
 * Used classifiers like logistic Regression ,Decision Tree, Random Forest .Did fune- tuning and achieved an accuracy of 77.5 percent
 
 [Project Link](https://github.com/mahita2104/AIMLMonth2023/blob/main/Minor%20Project/ProjectSubmission.md)
+[Colab Notebook](https://colab.research.google.com/drive/1-VyyEnkZ7rejsyeQJenIHcSnX00zffv5?usp=sharing)
