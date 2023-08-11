@@ -11,7 +11,7 @@ scarring of the liver . The dataset is the information collected from the Mayo C
 trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984
 This dataset contains a total of 424 PBC patient's records.
 
-##ATTRIBUTE INFORMATION##
+## ATTRIBUTE INFORMATION ##
 1) ID: unique identifier
 2) N_Days: number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986
 3) Status: status of the patient C (censored), CL (censored due to liver tx), or D (death)
