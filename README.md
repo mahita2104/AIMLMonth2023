@@ -8,4 +8,4 @@ AI Club IGDTUW </h1>
 * The dataset had clinical features of 424 patients, including their age, gender , Bilirubin levels ,presence of Ascites , presense of Hepatomegaly among other medical measurements.
 * Used classifiers like logistic Regression ,Decision Tree, Random Forest .Did fune- tuning and achieved an accuracy of 77.5 percent
 
-[Project Link]https://github.com/mahita2104/AIMLMonth2023/blob/main/Minor%20Project/ProjectSubmission.md
+[Project Link](https://github.com/mahita2104/AIMLMonth2023/blob/main/Minor%20Project/ProjectSubmission.md)
