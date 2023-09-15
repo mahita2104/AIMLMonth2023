@@ -49,7 +49,7 @@ This dataset contains a total of 424 PBC patient's records.
 
 MY tasks were to perform EDA and Regression/Classification
 I first tried comprehending the dataset by understanding the meaning of the clinical features and how they are related to cirrhosis. Handled missing values using median for 
-numerical data and most frequent feature for categorical data , found outliers in the dataset , understood the relationship between different attributes and how they affect the 
+numerical data and most frequent feature for categorical data . Found outliers in the dataset through boxplots , explored the relationship between different attributes and how they affect the 
 dependent variable(Stage) through different plotting techniques of matplotlib and seaborn library of python.
 I did feature of encoding of categorical attributes(a necessary step for data preprocessing) , cleaned the data removed unnecessary rows and columns and then finally based on the
-task I was given I decided to go with the algorithm of Logistic Regression for classification which predict cirrhosis.
+task I was given I decided to go with the algorithm of Logistic Regression,Decision Tree and Random Forest for classification which predict cirrhosis.
